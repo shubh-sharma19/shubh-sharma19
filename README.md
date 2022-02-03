@@ -1,1 +1,2 @@
-CS | Currently learning CP | Languages: c++, html, css, javscript  |  🛴 Fun fact: I like memes, music, video games
+CS | Languages: cpp, java
+skills - ds-algo, html, css, javascript
