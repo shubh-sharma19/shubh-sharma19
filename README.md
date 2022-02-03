@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubh 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/shubh_sharma19)
+[![Twitter Follow](https://www.flaticon.com/free-icon/twitter_124021)](https://twitter.com/shubh_sharma19)
 
 ## I'm a Student of Computer Science, A developer, gamer and sometimes I make music.
 
