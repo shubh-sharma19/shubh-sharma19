@@ -30,5 +30,5 @@
 
 [twitter]: https://twitter.com/shubh_sharma19
 [youtube]: https://www.youtube.com/channel/UCeDRI5K_o77pMkTSReeRxvw
-[instagram]: https://instagram.com/shubh_sharma19
+[instagram]: https://instagram.com/sikkuuu
 [linkedin]: https://www.linkedin.com/in/shubh-sharma-312ba71b4/
