@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubh 👋 
 
-[![Twitter Follow][<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shubh_sharma19)
+[![Twitter Follow][<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]](https://twitter.com/shubh_sharma19)
 
 ## I'm a Student of Computer Science, A developer, gamer and sometimes I make music.
 
