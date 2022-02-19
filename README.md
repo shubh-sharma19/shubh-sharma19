@@ -41,7 +41,7 @@
 
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/shubh-sharma19">
   
   <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-sharma19&layout=compact&theme=radical&hide_border=true" />
