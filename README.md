@@ -5,7 +5,7 @@
 
 
 <b> About Me: </b>
-- 🌱 I’m currently Java. 😎🤣😵
+- 🌱 I’m currently learning Java.
 - 🥅 2022 Goals: Contribute to Open Source projects and learn a lot of new stuff
 - ⚡ Fun fact: I am a Music producer, and sometimes a Gamer
 
