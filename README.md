@@ -5,9 +5,8 @@
 
 
 <b> About Me: </b>
-- 🌱 I’m currently learning everything 😎🤣😵
-- 👯 java and c++ are my favourite but learning doesn't stop here 
-- 🥅 2022 Goals: Contribute to Open Source projects and learn a lot of stuff
+- 🌱 I’m currently Java. 😎🤣😵
+- 🥅 2022 Goals: Contribute to Open Source projects and learn a lot of new stuff
 - ⚡ Fun fact: I am a Music producer, and sometimes a Gamer
 
 
