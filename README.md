@@ -28,7 +28,7 @@
 <br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://www.linkedin.com/in/shubh-sharma-312ba71b4/" target="_blank" ><img align="left" title="LinkedIn - Shubh Sharma" alt="LinkedIn" height="28px" src="https://1000logos.net/linkedin-logo/" /></a>
+<a href="https://www.linkedin.com/in/shubh-sharma-312ba71b4/" target="_blank" ><img align="left" title="LinkedIn - Shubh Sharma" alt="LinkedIn" height="28px" src="https://cliply.co/clip/linkedin-icon/" /></a>
 
 <a href="mailto:mail.shubhsharma19@gmail.com"><img align="left" title="Mail - Shubh Sharma" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 
