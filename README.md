@@ -5,7 +5,8 @@
 
 
 <b> About Me: </b>
-- 🌱 I’m currently learning Java.
+- 😁 I am a Computer Science Undergraduate.
+- 🌱 Currently learning Java and New technologies.
 - 🥅 2022 Goals: Contribute to Open Source projects and learn a lot of new stuff
 - ⚡ Fun fact: I am a Music producer, and sometimes a Gamer
 
