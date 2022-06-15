@@ -6,7 +6,7 @@
 
 <b> About Me: </b>
 - 😁 I am a Computer Science Undergraduate.
-- 🌱 Currently learning Java, Python, Data Structures and more.
+- 🌱 Currently learning Java, Python, DS-Algo and new technologies.
 - 🥅 2022 Goals: Contribute to Open Source projects and learn a lot of new stuff
 - ⚡ Fun fact: I am a Music producer, and sometimes a Gamer
 
