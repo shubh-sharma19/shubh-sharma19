@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">###I'm Shubh 👋 </h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">###I'm Shubh 👋 </h1>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="55%" height="70%" style="margin:0 50px;"> 
 
