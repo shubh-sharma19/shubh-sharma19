@@ -1,6 +1,6 @@
 <h1 align="center">Hi! ###I'm Shubh 👋 </h1>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="55%" height="70%" style="margin:0 50px;"> 
+<img align="right" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="45%" height="60%" style="margin:0 50px;"> 
 
 
 
