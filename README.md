@@ -36,7 +36,7 @@
 
 <a href="https://www.instagram.com/sikkuuu" target="_blank" ><img align="left" title="Instagram - Shubh Sharma" alt="Instagram" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
 
-<a href="https://www.linkedin.com/in/shubh-sharma-312ba71b4/" target="_blank" ><img align="left" title="LinkedIn - Shubh Sharma" alt="LinkedIn" height="28px" src="https://cliply.co/clip/linkedin-icon/" /></a>
+<a href="https://www.linkedin.com/in/shubh-sharma-312ba71b4/" target="_blank" ><img align="left" title="LinkedIn - Shubh Sharma" alt="LinkedIn" height="28px" src="https://cdn.icon-icons.com/icons2/835/PNG/512/linked_icon-icons.com_66731.png" /></a>
 
 <br>
 <br>
