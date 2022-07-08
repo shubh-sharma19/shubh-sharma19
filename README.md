@@ -21,6 +21,7 @@
 
 <img align="left" title="HTML5" alt="HTML5" width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
 <img align="left" title="CSS3" alt="CSS3" width="35px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
+<img align="left" title="git" alt= "git" width= "35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 
 
 
