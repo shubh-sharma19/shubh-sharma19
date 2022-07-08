@@ -18,7 +18,7 @@
 <img align="left" title="VScode" alt="vscode" height="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" title="C++" alt="C++" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" title="java" alt="Bootstrap" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" />
-<img align="left" title="HTML5" alt="HTML5" width="35px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
+<img align="left" title="HTML5" alt="HTML5" width="35px" src="https://www.flaticon.com/free-icon/html5_1216733" />
 <img align="left" title="CSS3" alt="CSS3" width="35px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 
